@@ -9,3 +9,4 @@ resources:
 
 patches:
 - path: argocd-repo-server-deploy.yaml
+- path: argocd-cm.yaml
